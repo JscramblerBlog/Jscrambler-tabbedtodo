@@ -1,4 +1,4 @@
-<tabbed-todo>
+<tabs>
     <tab-headers isclicked={this.isclicked} tabs="{opts.tabs}"></tab-headers>
     <tab-contents tabs="{opts.tabs}"></tab-contents>
 
@@ -21,4 +21,4 @@
             this.update();
         }
     </script>
-</tabbed-todo>
+</tabs>
